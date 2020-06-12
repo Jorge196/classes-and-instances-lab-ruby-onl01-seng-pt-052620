@@ -1,2 +1,6 @@
 class Dog
-end 
+  def var
+    Dog.new = fido
+    Dog.new = snoopy
+    Dog.new = lassie 
+end
